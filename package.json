@@ -1,7 +1,7 @@
 {
   "name": "react-acc-tabs",
-  "version": "1.0.0",
-  "description": "This library provides a collection of headless React components for rendering tabbed user interfaces (\"tab groups\"), which are compliant with the WAI ARIA [specification](https://www.w3.org/WAI/ARIA/apg/patterns/tabpanel/).",
+  "version": "0.0.1",
+  "description": "A collection of headless React components for rendering accessible tabbed UIs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/yurivyatkin/react-acc-tabs.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Yuri Vyatkin",
+  "license": "UNLICENSE",
   "bugs": {
     "url": "https://github.com/yurivyatkin/react-acc-tabs/issues"
   },
