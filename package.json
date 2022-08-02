@@ -4,6 +4,7 @@
   "description": "A collection of headless React components for rendering accessible tabbed UIs.",
   "main": "index.js",
   "scripts": {
+    "demo": "npm start --prefix demo",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
